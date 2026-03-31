@@ -29,6 +29,14 @@ A comprehensive terminal-based online examination system built with Bash scripti
 chmod +x exam-system.sh
 ./exam-system.sh
 
+
+<img width="293" height="178" alt="image" src="https://github.com/user-attachments/assets/eb49c0f8-e8e5-4492-aaec-4a191e1e3b7a" />
+
+
+
+<img width="290" height="213" alt="image" src="https://github.com/user-attachments/assets/729d2d04-62b1-43d8-b95d-dd5802db851d" />
+
+
 # On Windows:
 Use Git Bash or WSL
 
